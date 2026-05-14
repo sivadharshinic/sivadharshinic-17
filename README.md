@@ -10,6 +10,8 @@
 - 🌱 Learning **Selenium Automation, TestNG, and Core Java**
 - 💡 Passionate about delivering **bug-free, high-quality software**
 - 📫 Reach me at: **sivadharshinic2003@gmail.com**
+- - 🐙 GitHub: [github.com/sivadharshinic](https://github.com/sivadharshinic)
+
 
 ---
 
@@ -56,4 +58,3 @@
 
 <p align="center">⭐ If you like my profile, give it a star! ⭐</p>
 
-- 🐙 GitHub: [github.com/sivadharshinic](https://github.com/sivadharshinic)
